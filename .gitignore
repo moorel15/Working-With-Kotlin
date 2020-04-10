@@ -1,0 +1,13 @@
+# Ignore IntelliJ IDEA stuff
+*.iml
+*.ipr
+*.iws
+.idea/
+out/
+
+# Ignore Gradle stuff
+.gradle/
+build/
+
+# Ignore Zip archives
+*.zip
